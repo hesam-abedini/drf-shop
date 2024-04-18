@@ -81,7 +81,7 @@ Only super users and staff( is_staff , is_superuser ) can get the user list
 - **state :** filter by state
 - **city :** filter by city
 
-```json
+```
 http://127.0.0.1:8000/api/user/?search=hesam&ordering=name&page_size=5&is_active=1
 ```
 ### User Detail
