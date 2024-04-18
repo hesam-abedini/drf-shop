@@ -327,7 +327,7 @@ payload={
 - **category :** filter by category id
 - **brand :** filter by brand id or list of brand ids
 
-```json
+```
 http://127.0.0.1:8000/api/products/?category=1,brand=1,2
 ```
 ### Getting Product Detail
